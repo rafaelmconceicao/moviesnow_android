@@ -1,0 +1,6 @@
+com.moviesnow.test.app-core-1.6.1-0 C:\Users\rah zika\.gradle\caches\transforms-4\a3e44d7c0f1a95e8f84e8d4da084f3bc\transformed\core-1.6.1\res
+com.moviesnow.test.app-tracing-1.2.0-1 C:\Users\rah zika\.gradle\caches\transforms-4\fd73f6bab6b9772b2b05f46022fc7684\transformed\tracing-1.2.0\res
+com.moviesnow.test.app-androidTest-2 D:\projetosdiversos\projetos_nativo\moviesnow\app\build\generated\res\resValues\androidTest\debug
+com.moviesnow.test.app-mergeDebugAndroidTestResources-3 D:\projetosdiversos\projetos_nativo\moviesnow\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.moviesnow.test.app-mergeDebugAndroidTestResources-4 D:\projetosdiversos\projetos_nativo\moviesnow\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.moviesnow.test.app-debugAndroidTest-5 D:\projetosdiversos\projetos_nativo\moviesnow\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

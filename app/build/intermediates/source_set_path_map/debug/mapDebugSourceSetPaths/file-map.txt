@@ -1,0 +1,78 @@
+com.moviesnow.app-material-icons-core-release-0 C:\Users\rah zika\.gradle\caches\transforms-4\0036015a83893225303372724e9fc291\transformed\material-icons-core-release\res
+com.moviesnow.app-emoji2-1.4.0-1 C:\Users\rah zika\.gradle\caches\transforms-4\04040b168318dceb0d2d4644bebd7d27\transformed\emoji2-1.4.0\res
+com.moviesnow.app-core-runtime-2.2.0-2 C:\Users\rah zika\.gradle\caches\transforms-4\06d54752b1eb34ed0406414c292d45fb\transformed\core-runtime-2.2.0\res
+com.moviesnow.app-activity-ktx-1.10.1-3 C:\Users\rah zika\.gradle\caches\transforms-4\0748b356c1a3ca552235b59bb3a5afa1\transformed\activity-ktx-1.10.1\res
+com.moviesnow.app-runtime-release-4 C:\Users\rah zika\.gradle\caches\transforms-4\0be3e52aa7b6cda41fb7bd79a7c28f02\transformed\runtime-release\res
+com.moviesnow.app-material-release-5 C:\Users\rah zika\.gradle\caches\transforms-4\0edeae49ac9b279bbfab6c25936d55b7\transformed\material-release\res
+com.moviesnow.app-viewpager2-1.0.0-6 C:\Users\rah zika\.gradle\caches\transforms-4\14a10cb60b093d0d79d635e720973c42\transformed\viewpager2-1.0.0\res
+com.moviesnow.app-chromecast-sender-0.28-7 C:\Users\rah zika\.gradle\caches\transforms-4\160ca6659ea8e3f6b4e0254f659efaf2\transformed\chromecast-sender-0.28\res
+com.moviesnow.app-navigation-runtime-release-8 C:\Users\rah zika\.gradle\caches\transforms-4\1a7ac58c1f13ed98be3629e90aeb2f1e\transformed\navigation-runtime-release\res
+com.moviesnow.app-play-services-cast-framework-21.2.0-9 C:\Users\rah zika\.gradle\caches\transforms-4\1b56787ae02117c6a570ca4a38dcc5a9\transformed\play-services-cast-framework-21.2.0\res
+com.moviesnow.app-lifecycle-runtime-release-10 C:\Users\rah zika\.gradle\caches\transforms-4\1f6e88c2225e26ce06490c2d5414ec2e\transformed\lifecycle-runtime-release\res
+com.moviesnow.app-media-1.6.0-11 C:\Users\rah zika\.gradle\caches\transforms-4\20b45b80bfb14913ba2bd1c399f63a63\transformed\media-1.6.0\res
+com.moviesnow.app-foundation-release-12 C:\Users\rah zika\.gradle\caches\transforms-4\2e748336a27bdbfb1f4aa70400194d29\transformed\foundation-release\res
+com.moviesnow.app-core-viewtree-1.0.0-13 C:\Users\rah zika\.gradle\caches\transforms-4\31c4860353de86cceeeb94b2ad28c9cd\transformed\core-viewtree-1.0.0\res
+com.moviesnow.app-ui-graphics-release-14 C:\Users\rah zika\.gradle\caches\transforms-4\394c714ab84e4b68d3c74d5697d5f9e2\transformed\ui-graphics-release\res
+com.moviesnow.app-drawerlayout-1.1.1-15 C:\Users\rah zika\.gradle\caches\transforms-4\3cc317e0dba7733addb3b99ddc708117\transformed\drawerlayout-1.1.1\res
+com.moviesnow.app-navigation-compose-release-16 C:\Users\rah zika\.gradle\caches\transforms-4\41cd92943c7b2a898305c8a75695713f\transformed\navigation-compose-release\res
+com.moviesnow.app-activity-1.10.1-17 C:\Users\rah zika\.gradle\caches\transforms-4\42ec668e02be28d87d381ef9626a879b\transformed\activity-1.10.1\res
+com.moviesnow.app-play-services-basement-18.0.0-18 C:\Users\rah zika\.gradle\caches\transforms-4\4c3e6968e0a86981ce404f1fcf64be35\transformed\play-services-basement-18.0.0\res
+com.moviesnow.app-appcompat-1.7.0-19 C:\Users\rah zika\.gradle\caches\transforms-4\4d1f20ee2a8c20bf70d061cfe761c7ac\transformed\appcompat-1.7.0\res
+com.moviesnow.app-ui-util-release-20 C:\Users\rah zika\.gradle\caches\transforms-4\4ef4c4365145f20551ceb9422d11f920\transformed\ui-util-release\res
+com.moviesnow.app-emoji2-views-helper-1.4.0-21 C:\Users\rah zika\.gradle\caches\transforms-4\54c6f17edca276832be7fb79ab4c98b9\transformed\emoji2-views-helper-1.4.0\res
+com.moviesnow.app-mediarouter-1.3.0-22 C:\Users\rah zika\.gradle\caches\transforms-4\5a5332944b16809aa75e1cad8e7bad7a\transformed\mediarouter-1.3.0\res
+com.moviesnow.app-coordinatorlayout-1.1.0-23 C:\Users\rah zika\.gradle\caches\transforms-4\63d968c9b3f6bf2528fc0d6a137a6943\transformed\coordinatorlayout-1.1.0\res
+com.moviesnow.app-activity-compose-1.10.1-24 C:\Users\rah zika\.gradle\caches\transforms-4\68b676090996b722151b7b19af1ffe69\transformed\activity-compose-1.10.1\res
+com.moviesnow.app-customview-poolingcontainer-1.0.0-25 C:\Users\rah zika\.gradle\caches\transforms-4\6aeb8cb472b2b0a4b489a992b5f90202\transformed\customview-poolingcontainer-1.0.0\res
+com.moviesnow.app-core-12.0.0-26 C:\Users\rah zika\.gradle\caches\transforms-4\6efcaf14be44a4aa577cef5e8cb02ac3\transformed\core-12.0.0\res
+com.moviesnow.app-appcompat-resources-1.7.0-27 C:\Users\rah zika\.gradle\caches\transforms-4\77c861d7ab7eb44f747df4062d1144fb\transformed\appcompat-resources-1.7.0\res
+com.moviesnow.app-lifecycle-viewmodel-ktx-2.9.0-28 C:\Users\rah zika\.gradle\caches\transforms-4\804e40c3de4f481f6fafd4238c4c3767\transformed\lifecycle-viewmodel-ktx-2.9.0\res
+com.moviesnow.app-constraintlayout-2.0.1-29 C:\Users\rah zika\.gradle\caches\transforms-4\82a0873a8d1562c4cfcfd49704139a42\transformed\constraintlayout-2.0.1\res
+com.moviesnow.app-material3-release-30 C:\Users\rah zika\.gradle\caches\transforms-4\8722137586a513cfbef9ef9097083cf1\transformed\material3-release\res
+com.moviesnow.app-fragment-1.5.4-31 C:\Users\rah zika\.gradle\caches\transforms-4\87737b6c4bca810679fcb98a9af5f895\transformed\fragment-1.5.4\res
+com.moviesnow.app-lifecycle-runtime-compose-release-32 C:\Users\rah zika\.gradle\caches\transforms-4\8849800482f336646184fc58d7cb6e83\transformed\lifecycle-runtime-compose-release\res
+com.moviesnow.app-animation-release-33 C:\Users\rah zika\.gradle\caches\transforms-4\88ef469a3416af393015629431696462\transformed\animation-release\res
+com.moviesnow.app-ui-tooling-preview-release-34 C:\Users\rah zika\.gradle\caches\transforms-4\8b7ae69cd3721c5974080f9dfc81ac82\transformed\ui-tooling-preview-release\res
+com.moviesnow.app-material-ripple-release-35 C:\Users\rah zika\.gradle\caches\transforms-4\8ff70c680ada1152e03696de6272520e\transformed\material-ripple-release\res
+com.moviesnow.app-core-1.16.0-36 C:\Users\rah zika\.gradle\caches\transforms-4\915d74789a816a762674b6eee748a6f5\transformed\core-1.16.0\res
+com.moviesnow.app-annotation-experimental-1.4.1-37 C:\Users\rah zika\.gradle\caches\transforms-4\96eee791099cdb237546a9253c502faf\transformed\annotation-experimental-1.4.1\res
+com.moviesnow.app-ui-geometry-release-38 C:\Users\rah zika\.gradle\caches\transforms-4\9814c11603bfd7a29f44a5d6d12408e1\transformed\ui-geometry-release\res
+com.moviesnow.app-graphics-path-1.0.1-39 C:\Users\rah zika\.gradle\caches\transforms-4\98bff958bee2d351a8de8f7f23fa1ee9\transformed\graphics-path-1.0.1\res
+com.moviesnow.app-savedstate-compose-release-40 C:\Users\rah zika\.gradle\caches\transforms-4\9b370dab9ad05972feb131362fcb923b\transformed\savedstate-compose-release\res
+com.moviesnow.app-foundation-layout-release-41 C:\Users\rah zika\.gradle\caches\transforms-4\9b7712a691cceca2d52b6768af96f16d\transformed\foundation-layout-release\res
+com.moviesnow.app-savedstate-ktx-1.3.0-42 C:\Users\rah zika\.gradle\caches\transforms-4\9e6862f11aa51b369b21d9b9cf0589d4\transformed\savedstate-ktx-1.3.0\res
+com.moviesnow.app-transition-1.5.0-43 C:\Users\rah zika\.gradle\caches\transforms-4\9f94e7389adca8eac4cd2617995bf5fe\transformed\transition-1.5.0\res
+com.moviesnow.app-lifecycle-livedata-core-2.9.0-44 C:\Users\rah zika\.gradle\caches\transforms-4\a4d81a1ae1f4cfdb4cddbff5499e747e\transformed\lifecycle-livedata-core-2.9.0\res
+com.moviesnow.app-ui-release-45 C:\Users\rah zika\.gradle\caches\transforms-4\a7e424a71d6f990c9b17389838e15d76\transformed\ui-release\res
+com.moviesnow.app-play-services-base-18.0.1-46 C:\Users\rah zika\.gradle\caches\transforms-4\a8c1d873cba3fdc071e74d2be1d139be\transformed\play-services-base-18.0.1\res
+com.moviesnow.app-ui-text-release-47 C:\Users\rah zika\.gradle\caches\transforms-4\aba8a52822e1928d5cef5eb0834617f9\transformed\ui-text-release\res
+com.moviesnow.app-recyclerview-1.1.0-48 C:\Users\rah zika\.gradle\caches\transforms-4\b3bca8ed8413a4ea479f280a5377ed0c\transformed\recyclerview-1.1.0\res
+com.moviesnow.app-startup-runtime-1.1.1-49 C:\Users\rah zika\.gradle\caches\transforms-4\b6b718f7e1cad9c4f0944d9cd676dadb\transformed\startup-runtime-1.1.1\res
+com.moviesnow.app-tracing-1.2.0-50 C:\Users\rah zika\.gradle\caches\transforms-4\b840063f38ae0e559d6a6dd1f606b021\transformed\tracing-1.2.0\res
+com.moviesnow.app-runtime-livedata-1.8.2-51 C:\Users\rah zika\.gradle\caches\transforms-4\b861fb816d7d39281c3a97e7cc6fc72d\transformed\runtime-livedata-1.8.2\res
+com.moviesnow.app-lifecycle-viewmodel-release-52 C:\Users\rah zika\.gradle\caches\transforms-4\bb607d88f1d1f35165a9e9690516d789\transformed\lifecycle-viewmodel-release\res
+com.moviesnow.app-ui-unit-release-53 C:\Users\rah zika\.gradle\caches\transforms-4\be73447794769d24f6e11870c81c99e6\transformed\ui-unit-release\res
+com.moviesnow.app-lifecycle-livedata-core-ktx-2.9.0-54 C:\Users\rah zika\.gradle\caches\transforms-4\bf2ac00d44bfea5d9959234e144b3568\transformed\lifecycle-livedata-core-ktx-2.9.0\res
+com.moviesnow.app-lifecycle-viewmodel-compose-release-55 C:\Users\rah zika\.gradle\caches\transforms-4\c1d3d09f36f7ea64dbe76b640c7ca057\transformed\lifecycle-viewmodel-compose-release\res
+com.moviesnow.app-core-ktx-1.16.0-56 C:\Users\rah zika\.gradle\caches\transforms-4\d082b64843200c091c004e75129277de\transformed\core-ktx-1.16.0\res
+com.moviesnow.app-ui-tooling-data-release-57 C:\Users\rah zika\.gradle\caches\transforms-4\d0cbf420fbe6b07b38908e95084c9ccc\transformed\ui-tooling-data-release\res
+com.moviesnow.app-coil-base-2.4.0-58 C:\Users\rah zika\.gradle\caches\transforms-4\d163969381c0cb163a9fb3eb668dd81c\transformed\coil-base-2.4.0\res
+com.moviesnow.app-runtime-saveable-release-59 C:\Users\rah zika\.gradle\caches\transforms-4\d7aff3c46a09188f4e09ab82272e013c\transformed\runtime-saveable-release\res
+com.moviesnow.app-cardview-1.0.0-60 C:\Users\rah zika\.gradle\caches\transforms-4\dac58428f4e001832eb41ce4c2c3f139\transformed\cardview-1.0.0\res
+com.moviesnow.app-savedstate-release-61 C:\Users\rah zika\.gradle\caches\transforms-4\db5dde3812dc6501e164c557896cf403\transformed\savedstate-release\res
+com.moviesnow.app-lifecycle-process-2.9.0-62 C:\Users\rah zika\.gradle\caches\transforms-4\dc63930bf03831d4261804d4c1624ddf\transformed\lifecycle-process-2.9.0\res
+com.moviesnow.app-lifecycle-livedata-2.9.0-63 C:\Users\rah zika\.gradle\caches\transforms-4\dcedd833eef4ae742d61d7c7ae0854b9\transformed\lifecycle-livedata-2.9.0\res
+com.moviesnow.app-material-1.12.0-64 C:\Users\rah zika\.gradle\caches\transforms-4\e2ce08897db4bc92772b6ce342ff6202\transformed\material-1.12.0\res
+com.moviesnow.app-profileinstaller-1.4.0-65 C:\Users\rah zika\.gradle\caches\transforms-4\e3d1e454cf164123367516dd25d06027\transformed\profileinstaller-1.4.0\res
+com.moviesnow.app-ui-tooling-release-66 C:\Users\rah zika\.gradle\caches\transforms-4\e67f1f5595f505353129d5c8d213f042\transformed\ui-tooling-release\res
+com.moviesnow.app-navigation-common-release-67 C:\Users\rah zika\.gradle\caches\transforms-4\ed85d995e67cdbf050e99e4ff8656c80\transformed\navigation-common-release\res
+com.moviesnow.app-animation-core-release-68 C:\Users\rah zika\.gradle\caches\transforms-4\efa513005ec9eba184b7b5d48582ae6b\transformed\animation-core-release\res
+com.moviesnow.app-play-services-cast-21.2.0-69 C:\Users\rah zika\.gradle\caches\transforms-4\f27c9f0ea929f8166945a731d94fd574\transformed\play-services-cast-21.2.0\res
+com.moviesnow.app-lifecycle-viewmodel-savedstate-release-70 C:\Users\rah zika\.gradle\caches\transforms-4\f84c5d4376c19f491d1cb0bde6a0ad5e\transformed\lifecycle-viewmodel-savedstate-release\res
+com.moviesnow.app-pngs-71 D:\projetosdiversos\projetos_nativo\moviesnow\app\build\generated\res\pngs\debug
+com.moviesnow.app-resValues-72 D:\projetosdiversos\projetos_nativo\moviesnow\app\build\generated\res\resValues\debug
+com.moviesnow.app-packageDebugResources-73 D:\projetosdiversos\projetos_nativo\moviesnow\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.moviesnow.app-packageDebugResources-74 D:\projetosdiversos\projetos_nativo\moviesnow\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.moviesnow.app-debug-75 D:\projetosdiversos\projetos_nativo\moviesnow\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.moviesnow.app-debug-76 D:\projetosdiversos\projetos_nativo\moviesnow\app\src\debug\res
+com.moviesnow.app-main-77 D:\projetosdiversos\projetos_nativo\moviesnow\app\src\main\res

@@ -1,0 +1,3 @@
+com.moviesnow.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
