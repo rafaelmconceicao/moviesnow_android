@@ -42,7 +42,7 @@ Tela de **detalhes do filme** com:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/moviesnow_android.git
+   git clone https://github.com/rafaelmconceicao/moviesnow_android.git
    ```
 
 2. Abra no **Android Studio**
